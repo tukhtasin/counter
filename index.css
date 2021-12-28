@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    background-color: burlywood;
+    
+}
+.cont1{
+    margin-top: 25vh;
+    position: relative;
+    margin-left: 35.8vw;
+    background-color: cornsilk;
+    width: 60vh;
+    height: 50vh;
+    border-radius: 25px;
+    
+}
+h1{
+    position: absolute;
+    margin-top: 4vh;
+    margin-left: 2.5vw;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.display{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5vh;
+    margin-left: 12.5vw;
+    font-size: 4vmax;
+    
+}
+.jscode{
+    position: absolute;
+    margin-top: 40vh;
+    margin-left: 9vw;
+}
+
+
+button{
+
+    color: white;
+    background-color: brown;
+    height: 4vh;
+    width: 5vw;
+    border:0;
+    cursor: pointer;
+}
